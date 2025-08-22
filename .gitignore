@@ -32,6 +32,7 @@ build/
 .vscode/
 
 # Output files
+*.data
 *.csv
 *.h5
 *.pkl
