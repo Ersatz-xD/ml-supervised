@@ -22,6 +22,17 @@ This allows learners to **connect theory with practice** and visualize how model
 
 ---
 
+## Learning Approach
+
+This repository lets you **see and experiment with machine learning algorithms in action**:
+
+* **From Scratch Implementations** show the step-by-step computations behind linear and logistic regression.
+* **scikit-learn Implementations** demonstrate how these models are used in real-world workflows.
+* Compare **metrics and visualizations** to understand the strengths and limitations of each approach.
+* Learn how **gradient descent, cost functions, and predictions** work in practice.
+
+---
+
 ## Projects Overview
 
 ### 1️⃣ Linear Regression
@@ -131,13 +142,4 @@ Install dependencies via:
 pip install numpy pandas scikit-learn matplotlib seaborn
 ```
 
----
 
-## Why This Repo is Educational
-
-By combining **scratch implementations** and **scikit-learn implementations**, this repo helps learners:
-
-* Understand **what’s happening under the hood** of linear and logistic regression
-* Connect **mathematical concepts** (gradients, cost, sigmoid) with **real datasets**
-* Visualize how **training progresses and predictions improve**
-* Transition smoothly from **learning theory to practical modeling**
