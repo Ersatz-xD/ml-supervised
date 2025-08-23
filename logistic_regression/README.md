@@ -89,11 +89,11 @@ jupyter notebook heart_disease.ipynb
 
 | Metric         | Scratch   | scikit-learn |
 | -------------- | --------- | ------------ |
-| Train Accuracy | 0.8760    | 0.8850       |
-| Test Accuracy  | 0.8525    | 0.8680       |
-| Precision      | 0.83–0.88 | 0.84–0.88    |
-| Recall         | 0.85–0.86 | 0.86         |
-| F1-Score       | 0.84–0.86 | 0.86         |
+| Train Accuracy | 0.8760    | 0.8677       |
+| Test Accuracy  | 0.8525    | 0.8525       |
+| Precision      | 0.8275    | 0.8275       |
+| Recall         | 0.85      | 0.85         |
+| F1-Score       | 0.84      | 0.84         |
 
 *Confusion matrices and ROC curves are visualized in the notebook for direct comparison.*
 
