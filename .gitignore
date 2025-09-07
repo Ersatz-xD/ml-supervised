@@ -37,3 +37,7 @@ build/
 *.h5
 *.pkl
 *.joblib
+
+*.keras
+logs/
+checkpoints/
