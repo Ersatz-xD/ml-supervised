@@ -219,3 +219,27 @@ This repository is designed for learning purposes. If you find errors, have sugg
 - **Dataset providers** for making real-world data available for educational purposes
 
 ---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ayaan-ahmed-khan-448600351/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=10" alt="LinkedIn" style="margin: 5px;"/>
+  </a>
+  <a href="mailto:aayan.shazim@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&border-radius=10" alt="Email" style="margin: 5px;"/>
+  </a>
+  <a href="https://github.com/Ersatz-xD">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border-radius=10" alt="GitHub" style="margin: 5px;"/>
+  </a>
+  
+
+<div align="center" style="margin-top: 30px;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30">
+  <strong style="font-size: 18px; color: #00D9FF;">Always open to interesting conversations and collaboration opportunities!</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
